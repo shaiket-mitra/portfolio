@@ -4,4 +4,4 @@
 
 ### Email: (shaiket.mitra21@gmail.com)
 
-[ Live url](অ্যাসাইনমেন্টের লাইভ url লিংক দিন)
+[ Live url](https://radiant-liger-0c87d0.netlify.app)
